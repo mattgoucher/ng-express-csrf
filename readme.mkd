@@ -1,0 +1,2 @@
+## ng-express-csrf
+Simple module for grabbing a CSRF token from a meta tag, and adding it to HTTP requests made by angular.
