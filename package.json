@@ -1,0 +1,19 @@
+{
+  "name": "ng-express-csrf",
+  "version": "1.0.1",
+  "description": "AngularJS module for adding an `X-CSRF-TOKEN` header to all requests made from your angular application.",
+  "main": "lib/ng-express-csrf.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mattgoucher/ng-express-csrf.git"
+  },
+  "author": "Matt Goucher <matt@mattgoucher.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mattgoucher/ng-express-csrf/issues"
+  },
+  "homepage": "https://github.com/mattgoucher/ng-express-csrf"
+}
